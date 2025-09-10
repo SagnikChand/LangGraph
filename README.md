@@ -1,9 +1,9 @@
-# LangGraph — react_agent
+# LangGraph — Agent Workflows
 
-**Short:** Agentic AI prototypes and tooling for LangGraph architectures — Python backends + experiment utilities.
+**Short:** Agentic AI prototypes and tooling for LangGraph architectures - Python backends + experiment utilities.
 
 ## Contents
-- `react_agent.py` — main Python agent backend
+- `react_agent.py` — main Python React agent backend
 - `requirements.txt` — Python dependencies
 - `.env.example` — environment variable template
 - `notebooks/` — exploratory notebooks (optional)
@@ -26,3 +26,4 @@
 
 ## Contact
 Sagnik Chand — lesagnik@gmail.com
+
